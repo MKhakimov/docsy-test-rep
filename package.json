@@ -1,0 +1,17 @@
+{
+  "name": "test-repo-docsify-master",
+  "version": "1.0.0",
+  "description": "> Starter template for a markdown-based docs site",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "docsify serve docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
