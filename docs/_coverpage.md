@@ -1,5 +1,5 @@
 <h1 id="cover-heading">
-  Test Template
+  Showtime SE
 </h1>
 
->  Starter template for a markdown-based docs site
+>  Code structure and API documentation
